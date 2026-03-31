@@ -65,7 +65,7 @@ export default function LandingPage() {
         </p>
         <div className="flex flex-col md:flex-row items-center justify-center gap-6">
           <a href={whatsappLink} onClick={trackLead} className="group relative bg-[#f0fdf4] text-[#050806] px-12 py-6 rounded-2xl font-black text-xl overflow-hidden transition-all hover:scale-[1.02]">
-            <span className="relative z-10 uppercase tracking-tight">Lancer ma boutique — 100k</span>
+            <span className="relative z-10 uppercase tracking-tight">Lancer ma boutique — 120,000 XAF</span>
             <div className="absolute inset-0 bg-gradient-to-r from-white to-[#00C853]/20 opacity-0 group-hover:opacity-100 transition-opacity"></div>
           </a>
           <div className="text-left hidden md:block border-l border-white/10 pl-6">
