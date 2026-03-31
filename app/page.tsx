@@ -235,7 +235,7 @@ export default function LandingPage() {
 
           <div className="bg-black/20 backdrop-blur-md rounded-2xl p-6 inline-block mb-10 border border-white/10">
             <span className="block text-white/60 text-sm uppercase font-bold tracking-widest mb-1">Investissement Unique</span>
-            <span className="text-5xl font-black text-white italic">100.000 <span className="text-sm not-italic">FCFA</span></span>
+            <span className="text-5xl font-black text-white italic">120.000 <span className="text-sm not-italic">FCFA</span></span>
           </div>
 
           <br />
